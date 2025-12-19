@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+celery
+redis
+sqlalchemy
+psycopg2-binary
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+sentence-transformers
+langchain
+langchain-groq
+python-dotenv
+pydantic-settings

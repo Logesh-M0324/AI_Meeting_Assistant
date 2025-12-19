@@ -1,1 +1,36 @@
+# Virtual environments
+myenv/
+venv/
 .env
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Celery
+celerybeat-schedule
+
+# Storage
+storage/audio/
+storage/video/
+
+# Jupyter / coverage
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+structure.txt
+testing.ipynb
